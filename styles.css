@@ -1,16 +1,15 @@
 
 .holder{
-	background-color:red;
-	display:flex;
-	width:40%;
-	height:100px;
-/* 	align-content:center; */
-	justify-content:center;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-color: DodgerBlue;
 	
 }
 .item-1{
-	color:white;
-	background-color:black;
-	justify-content:center;
-	align-content:center;
+background-color: #f1f1f1;
+  color: black;
+  width: 100px;
+  height: 100px;
 }
