@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color:yellow;
+	height:100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	
+}
+.center{
+	background-color:red;
+	width:20%;
+	height:60%;
+}
